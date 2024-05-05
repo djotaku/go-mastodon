@@ -1,4 +1,4 @@
-module github.com/djota/go-mastodon
+module github.com/djotaku/go-mastodon
 
 go 1.21
 
