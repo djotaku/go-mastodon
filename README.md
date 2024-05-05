@@ -5,6 +5,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/mattn/go-mastodon.svg)](https://pkg.go.dev/github.com/mattn/go-mastodon)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mattn/go-mastodon)](https://goreportcard.com/report/github.com/mattn/go-mastodon)
 
+THIS IS JUST A TEMPORARY FORK BECAUSE THE ORIGINAL HAS A BROKEN GO.MOD THAT MAKES IT UNIMPORTABLE. ONCE THAT'S FIXED I'LL GET RID OF THIS FORK
 
 ## Usage
 
