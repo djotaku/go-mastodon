@@ -1,4 +1,4 @@
-module github.com/rmrfslashbin/go-mastodon
+module github.com/djota/go-mastodon
 
 go 1.21
 
